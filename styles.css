@@ -1,0 +1,16 @@
+heading{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+article p{  
+    background-color: gainsboro;
+    border-style: solid;
+}
+article {
+    width: 400px;
+    border:10px yellow;
+    padding:5px;
+    margin:15px;
+}
