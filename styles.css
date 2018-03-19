@@ -17,3 +17,11 @@ header {
     text-transform: uppercase;
     margin-left:10%;
 }
+.unique {
+    color:royalblue;
+}
+#name_title{
+    color: steelblue;
+    font-weight: bold;
+    font-variant-caps: titling-caps;
+}
