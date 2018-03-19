@@ -1,16 +1,19 @@
-heading{
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 200px;
-    margin-left: 200px;
-}
-article p{  
-    background-color: gainsboro;
-    border-style: solid;
-}
-article {
+
+article p {
     width: 400px;
-    border:10px yellow;
+    border:10px rgb(0, 183, 255);
     padding:5px;
     margin:15px;
+    margin-right: 50%;
+    margin-left: 25%;
+    background-color: gainsboro;
+    border-style: solid;
+
+}
+article header img {
+    margin-left:0%;
+}
+header {
+    text-transform: uppercase;
+    margin-left:10%;
 }
